@@ -1,5 +1,5 @@
 # Simple-Shiny-Counter
-Counter for tracking shiny pokemon encounters.  Made using Java and created by zxPhantom.  Enjoy!
+Counter for tracking shiny pokemon encounters.  Made using Java and created by aal55.  Enjoy!
 
 ## Shortcuts:
 ```
